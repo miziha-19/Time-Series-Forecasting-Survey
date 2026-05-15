@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-Survey
-Time Series Forecasting Survey
+Time Series Forecasting Survey 在此整理了相关的文献，主要是与假新闻检测领域相关的，希望大家多多指正。
 
 ## 范式一：LLM 作为特征提取器或表示学习模块
 
